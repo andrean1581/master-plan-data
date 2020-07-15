@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:57134
+#EXTINF:10
+https://cdngb196.useetv.com/joss/15/net/media_w1513410334_b1344100_sleng_57134.ts
+#EXTINF:10
+https://cdngb196.useetv.com/joss/15/net/media_w1513410334_b1344100_sleng_57135.ts
+#EXTINF:10
+https://cdngb196.useetv.com/joss/15/net/media_w1513410334_b1344100_sleng_57136.ts
