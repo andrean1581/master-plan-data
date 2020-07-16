@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="muja.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w1713634972_b1344100_sleng.m3u8?enc=0Nmuc1lv8VfOS39N9rNyqw&id=MGIyMWVkMzU0OGJhNGQ5MWI5ODhkYThhZDU3OGNhMmM=&exp=1594895161
