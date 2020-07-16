@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:2204
+#EXTINF:10
+https://streaming.useetv.com/joss/18/cdrama/media_w59038653_b684100_sleng_2204.ts
+#EXTINF:10
+https://streaming.useetv.com/joss/18/cdrama/media_w59038653_b684100_sleng_2205.ts
+#EXTINF:10
+https://streaming.useetv.com/joss/18/cdrama/media_w59038653_b684100_sleng_2206.ts
