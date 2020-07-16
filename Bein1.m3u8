@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTVLCOPT:http-user-agent="muja.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXTINF:10
+https://edgejt7.useetv.com/joss/15/bein1/chunklist_w366761052_b1344100_sleng_66996.m3u8?enc=yd_tbj7CCzuNuVgYlMRuvg&id=YmMzYjRkOTIzYTZhMjZkZTc4YmQ0ZTFmZmY5NDE5NmE=&exp=1594902260
+#EXTINF:10
+https://edgejt7.useetv.com/joss/15/bein1/chunklist_w366761052_b1344100_sleng_66997.m3u8?enc=yd_tbj7CCzuNuVgYlMRuvg&id=YmMzYjRkOTIzYTZhMjZkZTc4YmQ0ZTFmZmY5NDE5NmE=&exp=1594902260
+#EXTINF:10
+https://edgejt7.useetv.com/joss/15/bein1/chunklist_w366761052_b1344100_sleng_66999.m3u8?enc=yd_tbj7CCzuNuVgYlMRuvg&id=YmMzYjRkOTIzYTZhMjZkZTc4YmQ0ZTFmZmY5NDE5NmE=&exp=1594902260
